@@ -1,0 +1,10 @@
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\bin\Debug\Projekti.exe.config
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\bin\Debug\Projekti.exe
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\bin\Debug\Projekti.pdb
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\obj\Debug\Projekti.csprojAssemblyReference.cache
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\obj\Debug\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\obj\Debug\Projekti.csproj.CopyComplete
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\obj\Debug\Projekti.exe
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\obj\Debug\Projekti.pdb
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\bin\Debug\ConsoleTables.dll
+C:\Users\antti\Desktop\Projekti\Projekti\hamk-development-team-06\Projekti\Projekti\bin\Debug\ConsoleTables.pdb
